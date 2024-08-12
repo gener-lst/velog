@@ -18,7 +18,7 @@ jobs:
 
       - name: Push changes
         run: |
-          git config --global user.name '김민철(Minchel-Kim)'
+          git config --global user.name '김민철'
           git config --global user.email 'ofin0613@naver.com'
           git push https://${{ secrets.GH_PAT_VELOG }}@github.com/gener-lst/velog.git
 
