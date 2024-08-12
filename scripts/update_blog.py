@@ -4,7 +4,7 @@ import os
 
 # 벨로그 RSS 피드 URL
 # example : rss_url = 'https://api.velog.io/rss/@soozi'
-rss_url = 'https://api.velog.io/rss/@[gener-lst]'
+rss_url = 'https://api.velog.io/rss/@gener-lst'
 
 # 깃허브 레포지토리 경로
 repo_path = '.'
